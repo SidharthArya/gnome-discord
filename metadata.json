@@ -1,0 +1,9 @@
+{
+    "name": "Discord for Gnome Desktop",
+    "description": "Access Discord From Your Gnome-Desktop!",
+    "version": "1.1",
+    "uuid": "discord@sidhartharya.com",
+    "shell-version": ["42", "43", "44", "45"],
+    "url": "https://github.com/SidharthArya/gnome-discord",
+    "author": "Sidharth Arya"
+}
